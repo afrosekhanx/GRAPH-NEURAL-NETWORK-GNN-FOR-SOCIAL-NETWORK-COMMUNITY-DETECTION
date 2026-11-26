@@ -1,0 +1,10 @@
+Metric,GNN
+Nodes,5000.0
+Edges,129828.0
+GNN Communities,2.0
+Modularity,0.1595
+Execution Time (sec),39.4699
+Average Community Size,2500.0
+Largest Community,3652.0
+Community Size Std Dev,1152.0
+Silhouette Score,0.3952000141143799
